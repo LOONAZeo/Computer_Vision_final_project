@@ -1,1 +1,2 @@
-# LiDAR Coding for machine
+# LiDAR Point Cloud Object Detection for Autonomous Driving
+
